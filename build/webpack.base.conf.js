@@ -12,7 +12,7 @@ const rules = require("./webpack.rules.conf.js");
 // 获取html-webpack-plugin参数的方法
 const getHtmlConfig = function (name, chunks) {
     return {
-        template: `./src/pages/${name}.html`,
+        template: `./src/${name}.html`,
         filename: `${name}.html`,
         // favicon: './favicon.ico',
         // title: title,
@@ -87,6 +87,11 @@ module.exports = {
         new copyWebpackPlugin([{
             from: path.resolve(__dirname, "../src/assets"),
             to: './assets',
+            ignore: ['.*']
+        }]),
+        new copyWebpackPlugin([{
+            from: path.resolve(__dirname, "../src/util"),
+            to: './util',
             ignore: ['.*']
         }]),
         // 消除冗余的css代码

@@ -13,7 +13,7 @@ const rules = [
         test: /\.js$/,
         use: [{
             loader: "babel-loader"
-        }],
+        }]
         // 不检查node_modules下的js文件
         // exclude: "/node_modules/"
     }, {
@@ -54,7 +54,7 @@ const rules = [
             fallback: "style-loader",
             use: ["css-loader", "less-loader"],
             // css中的基础路径
-            publicPath: "../dist/"
+            publicPath: "../"
         })
     }, {
         test: require.resolve('zepto'),

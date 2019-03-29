@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9dfc0267-2853-4e84-9dcc-af97178f31a1" name="Default Changelist" comment="" />
+    <list default="true" id="9dfc0267-2853-4e84-9dcc-af97178f31a1" name="Default Changelist" comment="更新">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/webpack.prod.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/webpack.prod.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/webpack.rules.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/webpack.rules.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/util/canvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/canvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/index.66f37707.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/index.66f377076e0bf1f05fbe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/util/canvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -71,26 +83,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="2" />
-          <entry key="js" value="9" />
+          <entry key="html" value="18" />
+          <entry key="js" value="33" />
           <entry key="json" value="1" />
-          <entry key="md" value="1" />
+          <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="2" />
+          <entry key="HTML" value="18" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="9" />
-          <entry key="Markdown" value="1" />
+          <entry key="JavaScript" value="33" />
+          <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="48" />
-          <entry key="html" value="904" />
-          <entry key="js" value="129" />
+          <entry key="html" value="932" />
+          <entry key="js" value="219" />
           <entry key="json" value="12" />
           <entry key="md" value="6" />
           <entry key="scss" value="1341" />
@@ -99,9 +111,9 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="48" />
-          <entry key="HTML" value="904" />
+          <entry key="HTML" value="932" />
           <entry key="JSON" value="12" />
-          <entry key="JavaScript" value="129" />
+          <entry key="JavaScript" value="219" />
           <entry key="Markdown" value="6" />
           <entry key="SCSS" value="1341" />
         </counts>
@@ -109,7 +121,65 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1724">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="182" lean-forward="true" selection-start-line="182" selection-end-line="182" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/webpack.prod.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="961">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="26">
+                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="88" selection-start-column="82" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -137,18 +207,20 @@
         <option value="$PROJECT_DIR$/src/js/page2.js" />
         <option value="$PROJECT_DIR$/src/pages/page2.html" />
         <option value="$PROJECT_DIR$/src/pages/page1.html" />
-        <option value="$PROJECT_DIR$/build/webpack.prod.conf.js" />
         <option value="$PROJECT_DIR$/postcss.config.js" />
-        <option value="$PROJECT_DIR$/build/webpack.dev.conf.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/build/webpack.rules.conf.js" />
-        <option value="$PROJECT_DIR$/build/webpack.base.conf.js" />
         <option value="$PROJECT_DIR$/src/assets/util/canvas.js" />
         <option value="$PROJECT_DIR$/src/css/index.css" />
-        <option value="$PROJECT_DIR$/src/js/index.js" />
-        <option value="$PROJECT_DIR$/src/pages/index.html" />
         <option value="$PROJECT_DIR$/src/css/index.scss" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/build/webpack.rules.conf.js" />
+        <option value="$PROJECT_DIR$/src/js/index.js" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
+        <option value="$PROJECT_DIR$/build/webpack.dev.conf.js" />
+        <option value="$PROJECT_DIR$/src/pages/index.html" />
+        <option value="$PROJECT_DIR$/build/webpack.base.conf.js" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/build/webpack.prod.conf.js" />
       </list>
     </option>
   </component>
@@ -185,6 +257,11 @@
               <item name="resume" type="b2602c69:ProjectViewProjectNode" />
               <item name="resume" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="resume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resume" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -202,13 +279,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/assets/images" />
-      <recent name="$PROJECT_DIR$/src/js" />
-      <recent name="$PROJECT_DIR$/src/pages" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/assets/utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/src/js" />
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+      <recent name="$PROJECT_DIR$/src/pages" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -255,7 +334,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22730000" />
+    <option name="totallyTimeSpent" value="27849000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -268,8 +347,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496977" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -283,7 +363,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50060457" side_tool="true" weight="0.3298647" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4993954" visible="true" weight="0.3298647" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4993954" visible="true" weight="0.3298647" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -316,15 +396,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html" />
     <entry file="file://$PROJECT_DIR$/dist/css/index.f1fd7a7a.min.css" />
-    <entry file="file://$PROJECT_DIR$/build/webpack.prod.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -350,52 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
           <caret line="86" column="19" lean-forward="true" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/webpack.rules.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="175" column="20" selection-start-line="175" selection-start-column="20" selection-end-line="175" selection-end-column="20" />
-          <folding>
-            <element signature="n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#0;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#li#0;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#p#1;n#div#1;n#li#0;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#span#0;n#p#1;n#div#1;n#li#0;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#li#1;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#span#0;n#p#1;n#div#1;n#li#1;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#li#2;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#span#0;n#p#1;n#div#1;n#li#2;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#1;n#div#1;n#li#3;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -444,13 +470,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/util/canvas.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/util/canvas.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/canvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#193#293#0" />
+            <element signature="e#311#349#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="178" column="10" lean-forward="true" selection-start-line="178" selection-start-column="10" selection-end-line="178" selection-end-column="10" />
+          <folding>
+            <element signature="n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#0;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#li#0;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#p#1;n#div#1;n#li#0;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#1;n#li#0;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#li#1;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#1;n#li#1;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#li#2;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#1;n#li#2;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#1;n#li#3;n#ul#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.rules.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1826">
-          <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-          <folding>
-            <element signature="n#!!block;n#getEntry#0" />
-          </folding>
+        <state relative-caret-position="-1724">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="182" lean-forward="true" selection-start-line="182" selection-end-line="182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="88" selection-start-column="82" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.prod.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="961">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>
@@ -461,13 +574,6 @@
             <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/webpack.dev.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
         </state>
       </provider>
     </entry>
